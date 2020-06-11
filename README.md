@@ -74,6 +74,7 @@ I take the idea of **learning and sharing** very seriously and hence the existen
 
 |Topic|Organization|Date|
 |:---|:---|:---|
+|[Deploying models to production with TensorFlow model server](https://www.youtube.com/watch?v=SD5ePd6ouuY) (Deck - [bit.ly/tf-server-rishit-slides](https://www.google.com/url?q=https%3A%2F%2Fbit.ly%2Ftf-server-rishit-slides&sa=D&sntz=1&usg=AFQjCNFHSwoBlfywMk3e61w7V-eYx0s28w))|[GDG Ahmedabad](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FGDG-Ahmedabad%2Fevents%2F270477738%2F&sa=D&sntz=1&usg=AFQjCNHPyAoqzu5FVDN9Z_IR5ywNxRuyuA)|30 May 2020
 |[Using TensorFlow Hub to make better AI applications](https://www.youtube.com/watch?v=HJrQZz058as)|[GDG Nashik](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FGDG-Nashik%2Fevents%2F270709682%2F&sa=D&sntz=1&usg=AFQjCNFnwEhfnkgNx4ZKWjN8hnG7ktIh9g)|22 May 2020|
 |[Extending Convolutional Nets and solving overfitting in TensorFlow](https://www.youtube.com/watch?v=ouS6wif4Uw4&list=PLhsXz2jqfvgjzmKkRr0EbgvIq86dKpVzD)|virtual event organized by me|24 April 2020|
 |Convolutional Neural Nets and Impl|ementing them with TensorFLow|virtual event organized by me|22 April 2020|
