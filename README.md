@@ -74,6 +74,7 @@ I take the idea of **learning and sharing** very seriously and hence the existen
 
 |Topic|Organization|Date|
 |:---|:---|:---|
+|[Using TensorFlow Hub to make better AI applications](https://www.youtube.com/watch?v=HJrQZz058as)|[GDG Nashik](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FGDG-Nashik%2Fevents%2F270709682%2F&sa=D&sntz=1&usg=AFQjCNFnwEhfnkgNx4ZKWjN8hnG7ktIh9g)|22 May 2020|
 |[Extending Convolutional Nets and solving overfitting in TensorFlow](https://www.youtube.com/watch?v=ouS6wif4Uw4&list=PLhsXz2jqfvgjzmKkRr0EbgvIq86dKpVzD)|virtual event organized by me|24 April 2020|
 |Convolutional Neural Nets and Impl|ementing them with TensorFLow|virtual event organized by me|22 April 2020|
 |[TensorFlow 2.x Beginners Workshop](https://www.youtube.com/watch?v=Gp47ZCs8ZhU)|[The Quest 2020](https://www.google.com/url?q=https%3A%2F%2Fweareplymouths.com%2Fupdates%2F&sa=D&sntz=1&usg=AFQjCNE2il9_nuxh427xzuQsrBBhQjoCLA) by [We are Plymouths](https://www.google.com/url?q=https%3A%2F%2Fweareplymouths.com%2F&sa=D&sntz=1&usg=AFQjCNFi2HnHU6IDyPMwICsJb3PTBr9lVQ)|21 April 2020
